@@ -6,3 +6,4 @@ Passwords are hashed using the Argon2id hashing algorithm for secure storage of 
 
 ## Future Changes
 - Integrate Flask to deploy a web application for login portal.
+- Change password function.
