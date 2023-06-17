@@ -4,13 +4,16 @@ PyLog is a secure and user-friendly Python-based implementation of a login syste
 
 
 ## Installation & Usage Guide
-1. Initialising the database
+### Initialising the database
 
 To initialise the database, use the following command: 
 
 `sqlite3 database.db < init.sql`
 
-2. Usage
+
+### Usage
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mattis, neque in faucibus vehicula, nibh velit pretium urna, in sodales sem nisl quis nunc. Integer egestas ultricies turpis commodo porttitor. Phasellus eu posuere elit. Maecenas placerat metus lectus, nec mollis libero suscipit vel. Fusce cursus neque ac egestas accumsan. Maecenas vitae accumsan libero. Proin vel ullamcorper massa, vel malesuada nibh. Praesent tempor tellus id massa aliquet ullamcorper. Ut est nibh, cursus eget viverra at, sollicitudin non orci. 
 
 ## Specifications
 ### Password Hashing
