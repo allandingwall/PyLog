@@ -1,11 +1,9 @@
 # PyLog
 PyLog is a secure and user-friendly Python-based implementation of a login system. It uses SQLite as its database management system and implements the Argon2id algorithm for secure password hashing.
 
-## Specifications
-### Password Hashing
-Passwords are hashed using the Argon2id hashing algorithm with a configuration of 16 rounds, 47104 kibibyte memory usage, and 4 threads of parallelism, meeting and exceeding the [minimum recommendations made by OWASP for password storage](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#argon2id).
 
-## Installation & How-To Guide
+
+## Installation & Usage Guide
 1. Initialising the database
 
 To initialise the database, use the following command: 
@@ -14,6 +12,9 @@ To initialise the database, use the following command:
 
 2. Usage
 
+## Specifications
+### Password Hashing
+Passwords are hashed using the Argon2id hashing algorithm with a configuration of 16 rounds, 47104 kibibyte memory usage, and 4 threads of parallelism, meeting and exceeding the [minimum recommendations made by OWASP for password storage](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#argon2id).
 
 ## Future Changes / To-Do
 - [ ] Finish how-to guide
