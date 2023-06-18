@@ -22,6 +22,5 @@ Passwords are hashed using the Argon2id hashing algorithm with a configuration o
 ## Future Changes / To-Do
 - [ ] Finish how-to guide
 - [ ] Integrate change password function
-- [ ] Add pepper to database
 - [ ] Integrate Flask to deploy a web application for login portal
 - [ ] Implement 2-factor authentication
